@@ -7,7 +7,7 @@ subtitle: ""
 active: true
 ---
 ### Chair
-Philippe Bonnet (IT University of Copenhagen) (Chair)  
+Philippe Bonnet (IT University of Copenhagen)  
 
 ### Members
 Carlos Maltzahn (UC Santa Cruz)  

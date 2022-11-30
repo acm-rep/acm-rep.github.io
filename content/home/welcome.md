@@ -27,6 +27,6 @@ design:
   css_class:
 ---
 ACM Conference on  
-Reproducibility and Independent Verification  
+Reproducibility and Replicability  
 
 
