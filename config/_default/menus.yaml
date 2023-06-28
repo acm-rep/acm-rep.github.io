@@ -13,9 +13,21 @@ main:
   - name: Diversity and Inclusion
     url: diversity
     weight: 30
-  - name: Nominations
-    url: nominations
+  - name: Resources
+    identifier: resources
     weight: 40
+  - name: Speaker Directory
+    parent: resources
+    url: directory
+    weight: 10
+  - name: Conferences with Reproducibility
+    parent: resources
+    url: conferences
+    weight: 20
+  - name: Nominations
+    parent: resources
+    url: nominations
+    weight: 30
   - name: ACM REP 2023
     url: https://acmrep.github.io/2023
     weight: 50
