@@ -29,7 +29,7 @@ main:
   #  url: nominations
   #  weight: 30
   - name: ACM REP 2023
-    url: https://acmrep.github.io/2023
+    url: https://acm-rep.github.io/2023
     weight: 50
   - name: ACM EIGREP
     url: https://reproducibility.acm.org/
