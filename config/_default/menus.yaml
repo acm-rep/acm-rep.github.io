@@ -24,10 +24,10 @@ main:
     parent: resources
     url: conferences
     weight: 20
-  - name: Nominations
-    parent: resources
-    url: nominations
-    weight: 30
+  #- name: Nominations
+  #  parent: resources
+  #  url: nominations
+  #  weight: 30
   - name: ACM REP 2023
     url: https://acmrep.github.io/2023
     weight: 50
