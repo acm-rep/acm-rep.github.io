@@ -16,7 +16,7 @@ main:
   - name: Resources
     identifier: resources
     weight: 40
-  - name: Speaker Directory
+  - name: ACM REP Directory of Speakers
     parent: resources
     url: directory
     weight: 10
