@@ -4,10 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Conference History
-    url: history
+  - name: Events
+    identifier: events
     weight: 10
-  - name: Steering Committee
+  - name: ACM REP 2023
+    parent: events
+    url: https://acm-rep.github.io/2023
+    weight: 10
+  - name: History
+    parent: events
+    url: history
+    weight: 20
+  - name: Blog
+    url: #blog
+    weight: 15
+  - name: Steering
     url: "#steering"
     weight: 20
   - name: Diversity and Inclusion
@@ -28,9 +39,6 @@ main:
   #  parent: resources
   #  url: nominations
   #  weight: 30
-  - name: ACM REP 2023
-    url: https://acm-rep.github.io/2023
-    weight: 50
   - name: ACM EIGREP
     url: https://reproducibility.acm.org/
     weight: 60
