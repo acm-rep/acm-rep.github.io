@@ -16,7 +16,7 @@ main:
     url: history
     weight: 20
   - name: Blog
-    url: #blog
+    url: "#blog"
     weight: 15
   - name: Steering
     url: "#steering"
