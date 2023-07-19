@@ -20,7 +20,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 2
+  view: 3
   columns: '1'
 
 active: true
