@@ -7,10 +7,14 @@ main:
   - name: Events
     identifier: events
     weight: 10
+  - name: ACM REP 2024
+    parent: events
+    url: https://acm-rep.github.io/2024
+    weight: 10
   - name: ACM REP 2023
     parent: events
     url: https://acm-rep.github.io/2023
-    weight: 10
+    weight: 20
   - name: History
     parent: events
     url: history
