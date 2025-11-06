@@ -10,8 +10,8 @@ title: "ACM REP"
 hero_media: "acm.png"
 
 cta:
-  url: "https://acm-rep.github.io/2025"
-  label: "ACM REP 2025 →"
+  url: "https://acm-rep.github.io/2026"
+  label: "ACM REP 2026 →"
 
 #hero_media: welcome.jpg
 design:
