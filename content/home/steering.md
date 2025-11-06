@@ -7,7 +7,7 @@ subtitle: ""
 active: true
 ---
 ### Chair
-Philippe Bonnet (IT University of Copenhagen)  
+Philippe Bonnet (University of Copenhagen)  
 
 ### Members
 Carlos Maltzahn (UC Santa Cruz)  
@@ -17,7 +17,6 @@ Alexandru Uta (DFINITY)
 Stephanie Lieggi (UC Santa Cruz)  
 Todd Gamblin (Lawrence Livermore National Laboratory)  
 Kate Keahey (Argonne National Laboratory and University of Chicago)  
-Haryadi Gunawi (University of Chicago)  
 Anjo Vahldiek-Oberwagner (Intel Labs)  
 Kyle Cranmer (University of Wisconsin, Madison)  
 Fraida Fund (New York University, Tandon School of Engineering)  
