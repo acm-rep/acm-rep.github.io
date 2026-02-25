@@ -11,7 +11,7 @@ Philippe Bonnet (University of Copenhagen)
 
 ### Members
 Carlos Maltzahn (UC Santa Cruz)  
-Tanu Malik (DePaul University)  
+Tanu Malik (University of Missouri-Columbia)  
 Jay Lofstead (Sandia National Laboratories)  
 Alexandru Uta (DFINITY)  
 Stephanie Lieggi (UC Santa Cruz)  
