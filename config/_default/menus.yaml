@@ -39,14 +39,18 @@ main:
   - name: Resources
     identifier: resources
     weight: 40
+  - name: Proceedings
+    parent: resources
+    url: https://dl.acm.org/conference/acm-rep
+    weight: 10
   - name: ACM REP Directory of Speakers
     parent: resources
     url: directory
-    weight: 10
+    weight: 20
   - name: Conferences with Reproducibility
     parent: resources
     url: conferences
-    weight: 20
+    weight: 30
   #- name: Nominations
   #  parent: resources
   #  url: nominations
